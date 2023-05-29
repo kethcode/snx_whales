@@ -1,0 +1,20 @@
+{
+    "name": "snx_whales",
+    "version": "2.89.1",
+    "description": "",
+    "main": "snx_whales.ts",
+    "scripts": {},
+    "keywords": [],
+    "author": "kethic <kethic@kethic.com>",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "16.0.3",
+        "ethers": "5.7.2",
+        "synthetix": "2.89.1",
+        "twitter-api-v2": "1.14.2",
+        "@types/node": "^18.15.12",
+        "ts-node": "^10.9.1",
+        "tslib": "^2.5.0",
+        "typescript": "^5.0.4"
+    }
+}

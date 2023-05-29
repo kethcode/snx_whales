@@ -1,0 +1,1 @@
+worker: ts-node snx_whales.ts
